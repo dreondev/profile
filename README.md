@@ -21,7 +21,7 @@
 
 ## Vamos Conectar!
 
-- [Discord](https://discord.gg/NKPjcJadmX)
+- [Discord](https://discord.gg/hyperium-1051586879956471910)
 - [Website](https://dvrk.site)
 
 ⭐️ Obrigado por visitar o meu perfil! ⭐️
