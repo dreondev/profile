@@ -8,7 +8,7 @@
 
 # Informações Sobre Mim
 
-[Lanyard](https://api.lanyard.rest/v1/users/466182014614372362)
+[![Discord Presence](https://lanyard.cnrad.dev/api/806285262459764776)](https://discord.com/users/806285262459764776)
 
 ## Linguagens e Ferramentas
 
