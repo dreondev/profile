@@ -12,7 +12,7 @@
 
 ## Linguagens e Ferramentas
 
-- (NextJs), React, Ts, Js, Py, Html, Css, NodeJs
+- React, Ts, Js, Py, Html, Css, NodeJs
 - PC, Windows
 
 ## Estatísticas do GitHub
