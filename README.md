@@ -1,10 +1,10 @@
 # Bem-vindo ao meu perfil! 👋
 
-Eu sou [Seu Nome], um(a) [sua profissão ou algo que você gostaria de compartilhar].
+Eu sou dvrk, um(a) programador, não um dos melhores, porém um deles :>.
 
-- 🌱 Atualmente, estou aprendendo [o que você está aprendendo atualmente].
-- 👯 Estou procurando colaborar em [projetos interessantes].
-- 💬 Pergunte-me sobre [algo que você gosta de discutir ou ajudar].
+- 🌱 Atualmente, estou estudando NextJs.
+- 👯 Estou procurando colaborar em projetos interessantes.
+- 💬 Pergunte-me sobre algo que você gosta de discutir ou ajudar.
 
 ## Linguagens e Ferramentas
 
@@ -13,12 +13,11 @@ Eu sou [Seu Nome], um(a) [sua profissão ou algo que você gostaria de compartil
 
 ## Estatísticas do GitHub
 
-[![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-nome&show_icons=true&theme=radical)](https://github.com/seu-nome)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvrkzin&show_icons=true&theme=radical)](https://github.com/dvrkzin)
 
 ## Vamos Conectar!
 
-- [LinkedIn](seu-linkedin)
-- [Twitter](seu-twitter)
-- [Blog](seu-blog)
+- [Discord](https://discord.gg/NKPjcJadmX)
+- [Website](https://dvrk.site)
 
 ⭐️ Obrigado por visitar o meu perfil! ⭐️
