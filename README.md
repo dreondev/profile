@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 👋
 
-Eu sou dvrk, um(a) programador, não um dos melhores, porém um deles :>.
+## Aoba, eu sou o dvrk, um desenvolvedor full-stack.
 
 - 🌱 Atualmente, estou estudando NextJs.
 - 👯 Estou procurando colaborar em projetos interessantes.
@@ -8,8 +8,8 @@ Eu sou dvrk, um(a) programador, não um dos melhores, porém um deles :>.
 
 ## Linguagens e Ferramentas
 
-- [Lista das linguagens de programação que você conhece]
-- [Ferramentas ou tecnologias que você utiliza]
+- React, Ts, Js, Py, Html, Css, NodeJs
+- PC, Windows
 
 ## Estatísticas do GitHub
 
