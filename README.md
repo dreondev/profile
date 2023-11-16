@@ -6,6 +6,10 @@
 - 👯 Estou procurando colaborar em projetos interessantes.
 - 💬 Pergunte-me sobre algo que você gosta de discutir ou ajudar.
 
+# Informações Sobre Mim
+
+[Lanyard](https://api.lanyard.rest/v1/users/466182014614372362)
+
 ## Linguagens e Ferramentas
 
 - React, Ts, Js, Py, Html, Css, NodeJs
