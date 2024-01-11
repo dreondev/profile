@@ -2,7 +2,7 @@
 
 ## Aoba, eu sou o dvrk, um desenvolvedor full-stack.
 
-- 🌱 Atualmente, estou estudando o framework NextJs.
+- 🌱 Atualmente, estou estudando o framework NextJs + Lua.
 - 👯 Estou procurando colaborar em projetos interessantes.
 - 💬 Pergunte-me sobre algo que você gosta de discutir ou ajudar.
 
