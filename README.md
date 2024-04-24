@@ -2,7 +2,7 @@
 
 ## Aoba, eu sou o dreon, um desenvolvedor full-stack.
 
-- 🌱 Atualmente, estou estudando o framework NextJs + Lua.
+- 🌱 Atualmente, estou estudando o framework NextJs e também Lua.
 - 👯 Estou procurando colaborar em projetos interessantes.
 - 💬 Pergunte-me sobre algo que você gosta de discutir ou ajudar.
 
