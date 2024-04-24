@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 👋
 
-## Aoba, eu sou o dvrk, um desenvolvedor full-stack.
+## Aoba, eu sou o dreon, um desenvolvedor full-stack.
 
 - 🌱 Atualmente, estou estudando o framework NextJs + Lua.
 - 👯 Estou procurando colaborar em projetos interessantes.
@@ -19,9 +19,7 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvrkzin&show_icons=true&theme=radical)](https://github.com/dvrkzin)
 
-## Vamos Conectar!
+## Mais informações!
 
-- [Discord](https://discord.gg/hyperium-1051586879956471910)
-- [Website](https://dvrk.site)
-
-⭐️ Obrigado por visitar o meu perfil! ⭐️
+- [Discord](https://discord.gg/infinity-tools-1108882461032718378)
+- [Website](https://dreon.site)
