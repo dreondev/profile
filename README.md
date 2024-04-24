@@ -17,7 +17,7 @@
 
 ## Estatísticas do GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvrkzin&show_icons=true&theme=radical)](https://github.com/dvrkzin)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dreondev&show_icons=true&theme=radical)](https://github.com/dreondev)
 
 ## Mais informações!
 
