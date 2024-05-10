@@ -22,4 +22,4 @@
 ## Mais informações!
 
 - [Discord](https://discord.gg/infinity-tools-1108882461032718378)
-- [Website](https://dreon.site)
+- [Website](https://dvrk.site)
