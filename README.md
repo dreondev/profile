@@ -1,10 +1,10 @@
 # Bem-vindo ao meu perfil! 👋
 
-## Aoba, eu sou o dreon, um desenvolvedor full-stack.
+## Aoba, eu sou o dreon, um desenvolvedor Back-End.
 
-- 🌱 Atualmente, estou estudando o framework NextJS e também .Lua!
+- 🌱 Atualmente, estou estudando o framework NextJS!
 - 👯 Estou procurando colaborar em projetos interessantes.
-- 💬 Pergunte-me sobre algo que você gosta de discutir ou ajudar.
+- 💬 Pergunte-me sobre algo que você gosta de discutir.
 
 # Informações Sobre Mim
 
@@ -12,7 +12,7 @@
 
 ## Linguagens e Ferramentas
 
-- NextJS, Prisma, React, PostgreSQL, Ts, Js, Html, Css, NodeJS
+- NextJS, Prisma, React, PostgreSQL, Ts, Js, NodeJS e Mais...
 - PC, Windows 10, Visual Studio Code
 
 ## Estatísticas do GitHub
